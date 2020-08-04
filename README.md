@@ -1,7 +1,7 @@
 ### Hi there 👋
 You can connect with me here : [![Linkedin: Hemanth S](https://img.shields.io/badge/-Hemanth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanths-1407/)](https://www.linkedin.com/in/hemanths-1407/)  
-[![Hemanth's GitHub Stats](https://github-readme-stats.Hemanth10s.vercel.app/api?username=Hemanth10s&count_private=true&theme=radical&show_icons=true)](https://github.com/dh1n3sh)  
-![Top Langs](https://github-readme-stats.Hemanth10s.vercel.app/api/top-langs/?username=dh1n3sh&theme=radical&layout=compact)
+[![Hemanth's GitHub Stats](https://github-readme-stats.Hemanth10s.vercel.app/api?username=Hemanth10s&count_private=true&theme=radical&show_icons=true)](https://github.com/Hemanth10s)  
+![Top Langs](https://github-readme-stats.Hemanth10s.vercel.app/api/top-langs/?username=Hemanth10s&theme=radical&layout=compact)
 
 <!--
 **Hemanth10s/Hemanth10s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
